@@ -29,6 +29,9 @@ nav:
     url:   "/crossing-jekyll/"
   - title: "Github"
     url:   "https://github.com/barepants/crossing-jekyll"
+  - title: "Archive"
+    url:   "/crossing-jekyll/archive.html"
+
 
 
 # The links in the site footer
